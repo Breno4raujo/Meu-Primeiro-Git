@@ -16,7 +16,7 @@ header {
 
 img {
        margin-top: 20px;
-       width: 90vw;
+       width: 90svw;
        height: auto;
        
     }
@@ -67,7 +67,7 @@ a{
 
     img{
         margin-top: 20px;
-        width: 90vw; 
+        width: 90svw; 
         height: auto;
     }
 
@@ -80,4 +80,5 @@ h3 {
     }
 
 }
+
 
